@@ -113,3 +113,5 @@ The Fashion Image Classifier project combines machine learning, image processing
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/80654301-1870-42d0-9fdf-62db4e726e8d)
+![Image](https://github.com/user-attachments/assets/ceb57a85-643e-4019-8b1a-07228a82f360)
